@@ -1,2 +1,4 @@
 file3 is awesome
 make a file3
+
+this is a new line
